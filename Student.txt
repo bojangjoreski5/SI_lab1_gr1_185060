@@ -71,3 +71,8 @@ class Student {
         }
     }
 }
+class Course{
+    List<Student>;
+    public void addStudent{
+        
+    }
